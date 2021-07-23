@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/aleksandr/PycharmProjects/datacoffee.site",
+	"sourceRoot": "/home/runner/work/datacoffee-site/datacoffee-site",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
